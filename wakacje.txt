@@ -1,0 +1,16 @@
+Kraj: dm
+Miasto: dmd
+Hotel: s
+Pokoj: null
+Termin: fa
+Wyzywienie: da
+Cena: fs
+
+Kraj: gs
+Miasto: sfd
+Hotel: fa
+Pokoj: null
+Termin: asf
+Wyzywienie: asf
+Cena: sad
+
